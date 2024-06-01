@@ -1,8 +1,10 @@
-Hi 👋 My name is Zugrava Florin Ionut
+Hello 👋 My name is Zugrava Florin Ionut
 =====================================
 
 Junior tester QA and junior software developer
 ----------------------------------------------
+
+## About me
 
 I'm a junior programmer passionate about software development, at the beginning of my programming career. Before discovering this passion, I worked in other fields, but I chose to make a professional conversion to follow the path of programming. I started learning programming languages ​​and essential concepts and am excited to apply the knowledge gained in real projects. I am dedicated to further learning and want to contribute to the development of innovative and effective software solutions.
 
