@@ -1,7 +1,7 @@
 Hello 👋 My name is Zugrava Florin Ionut
 =====================================
 
-Junior tester QA and junior software developer
+Junior tester QA and junior web developer
 ----------------------------------------------
 
 ## About me
