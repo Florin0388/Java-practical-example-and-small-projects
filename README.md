@@ -1,7 +1,7 @@
 Hello 👋 My name is Zugrava Florin Ionut
 =====================================
 
-Junior tester QA and junior web developer
+Junior Tester QA and Junior Frontend Developer
 ----------------------------------------------
 
 ## About me
@@ -10,7 +10,7 @@ I'm a junior programmer passionate about software development, at the beginning 
 
 * 🌍  I'm based in Targoviste Dambovita Romania
 * ✉️  You can contact me at [florin.zugrava@gmail.com](mailto:florin.zugrava@gmail.com)
-* 🧠  I'm learning Java, Python and MySQL database for now.
+* 🧠  I'm learning HTML, CSS, Javascript, Java, Python and MySQL database for now.
 * 🤝  I'm open to collaborating on full time job, internship and interesting projects
 * ⚡  persistent in learning
 
